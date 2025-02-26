@@ -2,7 +2,7 @@
 let nome=prompt('Qual é o seu nome?');
 let idade=prompt('Qual é a sua idade?');
 let linguagem=prompt('Qual é(são) a(s) linguagem(ns) que você está aprendendo?');
-let pergunta=prompt(`Você gosta de aprender${linguagem}? Digite 1 para sim e 2 para não.`);
+let pergunta=prompt(`Você gosta de aprender ${linguagem}? Digite 1 para sim e 2 para não.`);
 
 //para exibir no console o resultado
 let mensagem = `Olá ${nome}! Você tem ${idade} anos e já está aprendendo ${linguagem}! `;
